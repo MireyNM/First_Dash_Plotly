@@ -30,7 +30,7 @@ https://github.com/MireyNM/First_Dash_Plotly/assets/109363759/42feaa0a-c518-479d
 ## Copywrite
 * This is a guided project done by <a href="https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Other/Dash_Introduction">Coding with Adam</a>. In his tutorial, a dashboard was built with one component each time. In this project, I have combined the 3 components in one dashboard and I have added all the states to the linear chart.
 * You can check his video tutorial on Youtube: <a href="https://www.youtube.com/watch?v=hSPmj7mK6ng">Introduction to Dash Plotly - Data Visualisation in Python</a>.
-* Dashboard music from  a href="https://pixabay.com/music/search/presentation%20music/">pixabay.com</a>.
+* Dashboard music from  <a href="https://pixabay.com/music/search/presentation%20music/">pixabay.com</a>.
 
 
 
